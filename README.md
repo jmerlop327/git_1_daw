@@ -14,13 +14,19 @@ sudo nano README.md
 Comandos utilizados para el ejercicio 
 
 git add README.md
+
 git commit -m "commit inicial"
+
 git push origin main
 
 touch privado.txt
+
 mkdir privada
+
 touch .gitignore
+
 nano.gitignore 
+
 git tag v0.1
 
 
