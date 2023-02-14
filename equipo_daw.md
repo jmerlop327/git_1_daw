@@ -8,3 +8,4 @@
 | Jose Perez Caballero  | [github.com/josepeca](https://github.com/josepeca)  |
 | Iván Barrios Román         | [github.com/ibarrom693 ](https://github.com/ibarrom693)  |
 | Abraham Rodriguez Moreno   | [github.com/arodmor789](https://github.com/arodmor )    |
+| Jose Manuel Benitez Alba   | [github.com/jbenalb](https://github.com/jbenalb )    |
